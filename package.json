@@ -1,0 +1,14 @@
+{
+  "name": "ua-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Комбінований UA-трекер: погода, повітряні тривоги, графіки відключень, новини, курс валют",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
